@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Silent SOS Beacon",
+  "description": "A discreet app for women to send a silent SOS signal using tap patterns. It alerts emergency contacts with live location and starts background audio recording.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
